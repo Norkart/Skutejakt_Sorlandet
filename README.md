@@ -13,4 +13,4 @@ Inspirert fra tidligere vinner av Beste Kart – Retrokart over Oslo – er kyst
 
 Utenfor gjestehavnen i Kristiansand er det naturlig valgt å ta med et sjømonster som også ligger «tilsynelatende» motsatt side av der Fullriggeren Sørlandet har hav og illustrert med deres logo. Kompassrosen er inspirert fra grafiske elementer til Fullriggeren
 
-Kartografen; [Ingfrid Nilsen Karlsen](https://github.com/INK-Norkart), designet og produserte kartet som en av de første oppgavene som nyansatt. Hun har ingen bakgrunn fra kartografi, GIS, Geomatikk – men fra grafisk design og multimedia. Kartet representerer dermed både en rekruttering til fagfeltet, en hommage til vintage kartografi og en formidling av kartografiske teknikker til unge barn. 
+Kartografen; [Ingfrid Nilsen Karlsen](https://no.linkedin.com/in/inktheartist404), designet og produserte kartet som en av de første oppgavene som nyansatt. Hun har ingen bakgrunn fra kartografi, GIS, Geomatikk – men fra grafisk design og multimedia. Kartet representerer dermed både en rekruttering til fagfeltet, en hommage til vintage kartografi og en formidling av kartografiske teknikker til unge barn. 
